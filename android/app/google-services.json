@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329714963241",
+    "project_id": "tria-beadd",
+    "storage_bucket": "tria-beadd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329714963241:android:9da7ef12359239c00a1d38",
+        "android_client_info": {
+          "package_name": "com.example.tria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329714963241-ktsa3v7d17vcfmjfl6iihr9n7gceb53t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFAHnmrxmVbraoBTs5h0Ehh91dnR1mco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329714963241-ktsa3v7d17vcfmjfl6iihr9n7gceb53t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
